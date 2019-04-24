@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="pdfbox-2.0.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/pdfbox-2.0.15.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/java-sdk-4.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aip-java-sdk-4.1.1/json-20160810.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.26/slf4j-1.7.26/slf4j-jdk14-1.7.26.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.26/slf4j-1.7.26/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/org-apache-commons-logging.jar/org-apache-commons-logging.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/fontbox-2.0.15.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tabula-1.0.2-jar-with-dependencies.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/traprange.lastest.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/java-sdk-4.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
